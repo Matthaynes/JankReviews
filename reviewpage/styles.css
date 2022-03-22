@@ -1,0 +1,32 @@
+.parallax {
+
+  background-image: url('img/p5tops.jpg');
+  filter: blur(px);
+
+  min-height: 600px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.a {
+  color: grey
+}
+.col {
+  font-family: 'Mada', sans-serif;
+}
+.bgs {
+  background-color: #FFFFF2
+}
+.oa {
+  font-size: 30px
+}
+
+/*
+font-family: 'Armata', sans-serif;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Mada', sans-serif;
+font-family: 'Mukta Malar', sans-serif;
+*/
