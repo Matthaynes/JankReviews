@@ -14,7 +14,7 @@
 .a {
   color: grey
 }
-.col {
+.col{
   font-family: 'Mada', sans-serif;
 }
 .bgs {
@@ -24,6 +24,14 @@
   font-size: 30px
 }
 
+
+.col-3 {
+  font-family: 'Mada', sans-serif;
+  color: #010400;
+}
+.na {
+ color: #00C2D1;
+}
 /*
 font-family: 'Armata', sans-serif;
 font-family: 'Exo 2', sans-serif;
