@@ -1,0 +1,82 @@
+.parallax {
+
+  background-image: url('img/ror2a.jpeg');
+  filter: blur(px);
+
+  min-height: 700px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.a {
+  color: grey
+}
+.col{
+  font-family: 'Mada', sans-serif;
+}
+.bgs {
+  background-color: #FFFFF2
+}
+.oa {
+  font-size: 30px
+}
+
+
+.col-3 {
+  font-family: 'Mada', sans-serif;
+  color: #010400;
+}
+.na {
+ color: #00C2D1;
+}
+
+.parabell {
+
+  background-image: url('img/ror2an.jpeg');
+  filter: blur(px);
+
+  min-height: 700px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.parabellum {
+
+  background-image: url('img/sotv2.jpg');
+  filter: blur(px);
+
+  min-height: 700px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.parabella {
+
+  background-image: url('img/rorwinter.jpg');
+  filter: blur(px);
+
+  min-height:500px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+/*
+font-family: 'Armata', sans-serif;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Mada', sans-serif;
+font-family: 'Mukta Malar', sans-serif;
+*/
