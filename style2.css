@@ -1,9 +1,9 @@
 .parallax {
 
-  background-image: url('img/p5tops.jpg');
+  background-image: url('img/ror2a.jpeg');
   filter: blur(px);
 
-  min-height: 800px;
+  min-height: 700px;
 
   background-attachment: fixed;
   background-position: center;
@@ -35,10 +35,38 @@
 
 .parabell {
 
-  background-image: url('img/p5bottom.jpg');
+  background-image: url('img/ror2an.jpeg');
   filter: blur(px);
 
-  min-height: 500px;
+  min-height: 700px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.parabellum {
+
+  background-image: url('img/sotv2.jpg');
+  filter: blur(px);
+
+  min-height: 700px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.parabella {
+
+  background-image: url('img/rorwinter.jpg');
+  filter: blur(px);
+
+  min-height:500px;
 
   background-attachment: fixed;
   background-position: center;
