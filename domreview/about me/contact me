@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Jank Reviews</title>
+  </head>
+  <body>
+    <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #7F00FF;
+}
+
+.topnav a {
+  float: left;
+  color:#7F00FF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #0069E7
+
+;
+  color: black;
+}
+
+.topnav a.active {
+  background-color:  #0069E7
+
+;
+  color: white;
+}
+</style>
+
+<body>
+
+<div class="topnav">
+  <a class="active" href="#home"><img src="img/janklogo.png" alt="logo" width="200" height="60"></a>
+</div>
+  </body>
+</html>
+<html>
+<body>
+
+<audio autoplay>
+  <source src="audio/Hong Kong 97 theme (Remastered).mp3" type="audio/ogg">
+  <source src="audio/Hong Kong 97 theme (Remastered).mp3" type="audio/mpeg">
+  </audio>
+</html>
+</body>
+      <body background="img/paisley.jpg"/>
+          <br>
+           <br>
+          </Body>
+          </Html>
+          
+          <html>
+          <head>
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <style>
+          .parallax {
+            /* The image used */
+            background-image: url("img/tumblr_m3o0582ayS1qzpy7ko1_r1_1280-640x480.gif");
+          
+            /* Set a specific height */
+            min-height: 500px;
+          
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+          }
+          </style>
+          </head>
+          <body>
+              
+              <div class="parallax"></div>
+              
+              <div style="height:1000px;background-color:#5eb3af;font-size:36px">
+                <center>
+                <h1>Dominic xique<h1> 
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <style>
+                    img:hover {
+                      animation: shake 0.5s;
+                      animation-iteration-count: infinite;
+                    }
+                    
+                    @keyframes shake {
+                      0% { transform: translate(1px, 1px) rotate(0deg); }
+                      10% { transform: translate(-1px, -2px) rotate(-1deg); }
+                      20% { transform: translate(-3px, 0px) rotate(1deg); }
+                      30% { transform: translate(3px, 2px) rotate(0deg); }
+                      40% { transform: translate(1px, -1px) rotate(1deg); }
+                      50% { transform: translate(-1px, 2px) rotate(-1deg); }
+                      60% { transform: translate(-3px, 1px) rotate(0deg); }
+                      70% { transform: translate(3px, 1px) rotate(-1deg); }
+                      80% { transform: translate(-1px, -1px) rotate(1deg); }
+                      90% { transform: translate(1px, 2px) rotate(0deg); }
+                      100% { transform: translate(1px, -2px) rotate(-1deg); }
+                    }
+                    <p></p>
+                    </style>
+                    </head>
+                    <body>
+                  <img src="img/lean gorilla.png"
+                  width="500"
+                  height="500" />
+
+                      <h4>Someone who play to much roblox<h4>
+                        <span>Contact <a href="https://youtu.be/nD3aK9OAQ88">124dxique@frhsd.com</a> 
+                          <center>
+              
+              </div>
+              
+              </body>
+              </html>
+              <Body background="img/blueberry lemomnde.jpg"/>
+          <br>
+           <br>
+              
+          
